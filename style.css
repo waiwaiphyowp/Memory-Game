@@ -37,3 +37,8 @@ button {
   border: none;
   border-radius: 5px;
 }
+
+.card.flipped {
+  background-color: #2596be; /* Change the background color when flipped */
+  color: #000; /* Change text color when flipped */
+}

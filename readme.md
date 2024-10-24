@@ -8,11 +8,15 @@
 
 - if the cards do not match, they are flipped back face down.  
 
-# Memory Skills
+## Memory Skills
 
 - Players should try to remember the positions of the cards they've seen to help find matches on their next turn. 
 
-# End of the Game 
+## End of the Game 
 
 - The game continues until all pairs have been matched. 
 
+
+# Flowchart of Memory Game
+
+![alt text](photo/memory-game.png)
